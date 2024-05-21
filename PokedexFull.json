@@ -1,0 +1,8202 @@
+{
+    "1": {
+        "Name": "Bulbasaur",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "2": {
+        "Name": "Ivysaur",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "3": {
+        "Name": "Venusaur",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "4": {
+        "Name": "Charmander",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "5": {
+        "Name": "Charmeleon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "6": {
+        "Name": "Charizard",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "7": {
+        "Name": "Squirtle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "8": {
+        "Name": "Wartortle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "9": {
+        "Name": "Blastoise",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "10": {
+        "Name": "Caterpie",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "11": {
+        "Name": "Metapod",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "12": {
+        "Name": "Butterfree",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "13": {
+        "Name": "Weedle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "14": {
+        "Name": "Kakuna",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "15": {
+        "Name": "Beedrill",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "16": {
+        "Name": "Pidgey",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "17": {
+        "Name": "Pidgeotto",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "18": {
+        "Name": "Pidgeot",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "19": {
+        "Name": "Rattata",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "20": {
+        "Name": "Raticate",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "21": {
+        "Name": "Spearow",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "22": {
+        "Name": "Fearow",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "23": {
+        "Name": "Ekans",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "24": {
+        "Name": "Arbok",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "25": {
+        "Name": "Pikachu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "26": {
+        "Name": "Raichu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "27": {
+        "Name": "Sandshrew",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "28": {
+        "Name": "Sandslash",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "29": {
+        "Name": "NidoranF",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "30": {
+        "Name": "Nidorina",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "31": {
+        "Name": "Nidoqueen",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "32": {
+        "Name": "NidoranM",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "33": {
+        "Name": "Nidorino",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "34": {
+        "Name": "Nidoking",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "35": {
+        "Name": "Clefairy",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "36": {
+        "Name": "Clefable",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "37": {
+        "Name": "Vulpix",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "38": {
+        "Name": "Ninetales",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "39": {
+        "Name": "Jigglypuff",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "40": {
+        "Name": "Wigglytuff",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "41": {
+        "Name": "Zubat",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "42": {
+        "Name": "Golbat",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "43": {
+        "Name": "Oddish",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "44": {
+        "Name": "Gloom",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "45": {
+        "Name": "Vileplume",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "46": {
+        "Name": "Paras",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "47": {
+        "Name": "Parasect",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "48": {
+        "Name": "Venonat",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "49": {
+        "Name": "Venomoth",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "50": {
+        "Name": "Diglett",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "51": {
+        "Name": "Dugtrio",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "52": {
+        "Name": "Meowth",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "53": {
+        "Name": "Persian",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "54": {
+        "Name": "Psyduck",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "55": {
+        "Name": "Golduck",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "56": {
+        "Name": "Mankey",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "57": {
+        "Name": "Primeape",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "58": {
+        "Name": "Growlithe",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "59": {
+        "Name": "Arcanine",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "60": {
+        "Name": "Poliwag",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "61": {
+        "Name": "Poliwhirl",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "62": {
+        "Name": "Poliwrath",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "63": {
+        "Name": "Abra",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "64": {
+        "Name": "Kadabra",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "65": {
+        "Name": "Alakazam",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "66": {
+        "Name": "Machop",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "67": {
+        "Name": "Machoke",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "68": {
+        "Name": "Machamp",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "69": {
+        "Name": "Bellsprout",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "70": {
+        "Name": "Weepinbell",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "71": {
+        "Name": "Victreebel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "72": {
+        "Name": "Tentacool",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "73": {
+        "Name": "Tentacruel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "74": {
+        "Name": "Geodude",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "75": {
+        "Name": "Graveler",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "76": {
+        "Name": "Golem",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "77": {
+        "Name": "Ponyta",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "78": {
+        "Name": "Rapidash",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "79": {
+        "Name": "Slowpoke",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "80": {
+        "Name": "Slowbro",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "81": {
+        "Name": "Magnemite",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "82": {
+        "Name": "Magneton",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "83": {
+        "Name": "Farfetchd",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "84": {
+        "Name": "Doduo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "85": {
+        "Name": "Dodrio",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "86": {
+        "Name": "Seel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "87": {
+        "Name": "Dewgong",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "88": {
+        "Name": "Grimer",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "89": {
+        "Name": "Muk",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "90": {
+        "Name": "Shellder",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "91": {
+        "Name": "Cloyster",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "92": {
+        "Name": "Gastly",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "93": {
+        "Name": "Haunter",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "94": {
+        "Name": "Gengar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "95": {
+        "Name": "Onix",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "96": {
+        "Name": "Drowzee",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "97": {
+        "Name": "Hypno",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "98": {
+        "Name": "Krabby",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "99": {
+        "Name": "Kingler",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "100": {
+        "Name": "Voltorb",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "101": {
+        "Name": "Electrode",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "102": {
+        "Name": "Exeggcute",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "103": {
+        "Name": "Exeggutor",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "104": {
+        "Name": "Cubone",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "105": {
+        "Name": "Marowak",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "106": {
+        "Name": "Hitmonlee",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "107": {
+        "Name": "Hitmonchan",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "108": {
+        "Name": "Lickitung",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "109": {
+        "Name": "Koffing",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "110": {
+        "Name": "Weezing",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "111": {
+        "Name": "Rhyhorn",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "112": {
+        "Name": "Rhydon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "113": {
+        "Name": "Chansey",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "114": {
+        "Name": "Tangela",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "115": {
+        "Name": "Kangaskhan",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "116": {
+        "Name": "Horsea",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "117": {
+        "Name": "Seadra",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "118": {
+        "Name": "Goldeen",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "119": {
+        "Name": "Seaking",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "120": {
+        "Name": "Staryu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "121": {
+        "Name": "Starmie",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "122": {
+        "Name": "Mr. Mime",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "123": {
+        "Name": "Scyther",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "124": {
+        "Name": "Jynx",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "125": {
+        "Name": "Electabuzz",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "126": {
+        "Name": "Magmar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "127": {
+        "Name": "Pinsir",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "128": {
+        "Name": "Tauros",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "129": {
+        "Name": "Magikarp",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "130": {
+        "Name": "Gyarados",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "131": {
+        "Name": "Lapras",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "132": {
+        "Name": "Ditto",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "133": {
+        "Name": "Eevee",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "134": {
+        "Name": "Vaporeon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "135": {
+        "Name": "Jolteon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "136": {
+        "Name": "Flareon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "137": {
+        "Name": "Porygon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "138": {
+        "Name": "Omanyte",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "139": {
+        "Name": "Omastar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "140": {
+        "Name": "Kabuto",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "141": {
+        "Name": "Kabutops",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "142": {
+        "Name": "Aerodactyl",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "143": {
+        "Name": "Snorlax",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "144": {
+        "Name": "Articuno",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "145": {
+        "Name": "Zapdos",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "146": {
+        "Name": "Moltres",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "147": {
+        "Name": "Dratini",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "148": {
+        "Name": "Dragonair",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "149": {
+        "Name": "Dragonite",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "150": {
+        "Name": "Mewtwo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "151": {
+        "Name": "Mew",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "152": {
+        "Name": "Chikorita",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "153": {
+        "Name": "Bayleef",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "154": {
+        "Name": "Meganium",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "155": {
+        "Name": "Cyndaquil",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "156": {
+        "Name": "Quilava",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "157": {
+        "Name": "Typhlosion",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "158": {
+        "Name": "Totodile",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "159": {
+        "Name": "Croconaw",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "160": {
+        "Name": "Feraligatr",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "161": {
+        "Name": "Sentret",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "162": {
+        "Name": "Furret",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "163": {
+        "Name": "Hoothoot",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "164": {
+        "Name": "Noctowl",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "165": {
+        "Name": "Ledyba",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "166": {
+        "Name": "Ledian",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "167": {
+        "Name": "Spinarak",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "168": {
+        "Name": "Ariados",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "169": {
+        "Name": "Crobat",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "170": {
+        "Name": "Chinchou",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "171": {
+        "Name": "Lanturn",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "172": {
+        "Name": "Pichu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "173": {
+        "Name": "Cleffa",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "174": {
+        "Name": "Igglybuff",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "175": {
+        "Name": "Togepi",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "176": {
+        "Name": "Togetic",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "177": {
+        "Name": "Natu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "178": {
+        "Name": "Xatu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "179": {
+        "Name": "Mareep",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "180": {
+        "Name": "Flaaffy",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "181": {
+        "Name": "Ampharos",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "182": {
+        "Name": "Bellossom",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "183": {
+        "Name": "Marill",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "184": {
+        "Name": "Azumarill",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "185": {
+        "Name": "Sudowoodo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "186": {
+        "Name": "Politoed",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "187": {
+        "Name": "Hoppip",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "188": {
+        "Name": "Skiploom",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "189": {
+        "Name": "Jumpluff",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "190": {
+        "Name": "Aipom",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "191": {
+        "Name": "Sunkern",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "192": {
+        "Name": "Sunflora",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "193": {
+        "Name": "Yanma",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "194": {
+        "Name": "Wooper",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "195": {
+        "Name": "Quagsire",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "196": {
+        "Name": "Espeon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "197": {
+        "Name": "Umbreon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "198": {
+        "Name": "Murkrow",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "199": {
+        "Name": "Slowking",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "200": {
+        "Name": "Misdreavus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "201": {
+        "Name": "Unown",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "202": {
+        "Name": "Wobbuffet",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "203": {
+        "Name": "Girafarig",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "204": {
+        "Name": "Pineco",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "205": {
+        "Name": "Forretress",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "206": {
+        "Name": "Dunsparce",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "207": {
+        "Name": "Gligar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "208": {
+        "Name": "Steelix",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "209": {
+        "Name": "Snubbull",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "210": {
+        "Name": "Granbull",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "211": {
+        "Name": "Qwilfish",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "212": {
+        "Name": "Scizor",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "213": {
+        "Name": "Shuckle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "214": {
+        "Name": "Heracross",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "215": {
+        "Name": "Sneasel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "216": {
+        "Name": "Teddiursa",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "217": {
+        "Name": "Ursaring",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "218": {
+        "Name": "Slugma",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "219": {
+        "Name": "Magcargo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "220": {
+        "Name": "Swinub",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "221": {
+        "Name": "Piloswine",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "222": {
+        "Name": "Corsola",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "223": {
+        "Name": "Remoraid",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "224": {
+        "Name": "Octillery",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "225": {
+        "Name": "Delibird",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "226": {
+        "Name": "Mantine",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "227": {
+        "Name": "Skarmory",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "228": {
+        "Name": "Houndour",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "229": {
+        "Name": "Houndoom",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "230": {
+        "Name": "Kingdra",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "231": {
+        "Name": "Phanpy",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "232": {
+        "Name": "Donphan",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "233": {
+        "Name": "Porygon2",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "234": {
+        "Name": "Stantler",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "235": {
+        "Name": "Smeargle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "236": {
+        "Name": "Tyrogue",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "237": {
+        "Name": "Hitmontop",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "238": {
+        "Name": "Smoochum",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "239": {
+        "Name": "Elekid",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "240": {
+        "Name": "Magby",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "241": {
+        "Name": "Miltank",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "242": {
+        "Name": "Blissey",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "243": {
+        "Name": "Raikou",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "244": {
+        "Name": "Entei",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "245": {
+        "Name": "Suicune",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "246": {
+        "Name": "Larvitar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "247": {
+        "Name": "Pupitar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "248": {
+        "Name": "Tyranitar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "249": {
+        "Name": "Lugia",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "250": {
+        "Name": "Ho-Oh",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "251": {
+        "Name": "Celebi",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "252": {
+        "Name": "Treecko",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "253": {
+        "Name": "Grovyle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "254": {
+        "Name": "Sceptile",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "255": {
+        "Name": "Torchic",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "256": {
+        "Name": "Combusken",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "257": {
+        "Name": "Blaziken",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "258": {
+        "Name": "Mudkip",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "259": {
+        "Name": "Marshtomp",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "260": {
+        "Name": "Swampert",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "261": {
+        "Name": "Poochyena",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "262": {
+        "Name": "Mightyena",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "263": {
+        "Name": "Zigzagoon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "264": {
+        "Name": "Linoone",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "265": {
+        "Name": "Wurmple",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "266": {
+        "Name": "Silcoon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "267": {
+        "Name": "Beautifly",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "268": {
+        "Name": "Cascoon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "269": {
+        "Name": "Dustox",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "270": {
+        "Name": "Lotad",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "271": {
+        "Name": "Lombre",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "272": {
+        "Name": "Ludicolo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "273": {
+        "Name": "Seedot",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "274": {
+        "Name": "Nuzleaf",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "275": {
+        "Name": "Shiftry",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "276": {
+        "Name": "Taillow",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "277": {
+        "Name": "Swellow",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "278": {
+        "Name": "Wingull",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "279": {
+        "Name": "Pelipper",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "280": {
+        "Name": "Ralts",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "281": {
+        "Name": "Kirlia",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "282": {
+        "Name": "Gardevoir",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "283": {
+        "Name": "Surskit",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "284": {
+        "Name": "Masquerain",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "285": {
+        "Name": "Shroomish",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "286": {
+        "Name": "Breloom",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "287": {
+        "Name": "Slakoth",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "288": {
+        "Name": "Vigoroth",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "289": {
+        "Name": "Slaking",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "290": {
+        "Name": "Nincada",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "291": {
+        "Name": "Ninjask",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "292": {
+        "Name": "Shedinja",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "293": {
+        "Name": "Whismur",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "294": {
+        "Name": "Loudred",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "295": {
+        "Name": "Exploud",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "296": {
+        "Name": "Makuhita",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "297": {
+        "Name": "Hariyama",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "298": {
+        "Name": "Azurill",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "299": {
+        "Name": "Nosepass",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "300": {
+        "Name": "Skitty",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "301": {
+        "Name": "Delcatty",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "302": {
+        "Name": "Sableye",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "303": {
+        "Name": "Mawile",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "304": {
+        "Name": "Aron",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "305": {
+        "Name": "Lairon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "306": {
+        "Name": "Aggron",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "307": {
+        "Name": "Meditite",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "308": {
+        "Name": "Medicham",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "309": {
+        "Name": "Electrike",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "310": {
+        "Name": "Manectric",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "311": {
+        "Name": "Plusle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "312": {
+        "Name": "Minun",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "313": {
+        "Name": "Volbeat",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "314": {
+        "Name": "Illumise",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "315": {
+        "Name": "Roselia",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "316": {
+        "Name": "Gulpin",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "317": {
+        "Name": "Swalot",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "318": {
+        "Name": "Carvanha",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "319": {
+        "Name": "Sharpedo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "320": {
+        "Name": "Wailmer",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "321": {
+        "Name": "Wailord",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "322": {
+        "Name": "Numel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "323": {
+        "Name": "Camerupt",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "324": {
+        "Name": "Torkoal",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "325": {
+        "Name": "Spoink",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "326": {
+        "Name": "Grumpig",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "327": {
+        "Name": "Spinda",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "328": {
+        "Name": "Trapinch",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "329": {
+        "Name": "Vibrava",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "330": {
+        "Name": "Flygon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "331": {
+        "Name": "Cacnea",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "332": {
+        "Name": "Cacturne",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "333": {
+        "Name": "Swablu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "334": {
+        "Name": "Altaria",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "335": {
+        "Name": "Zangoose",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "336": {
+        "Name": "Seviper",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "337": {
+        "Name": "Lunatone",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "338": {
+        "Name": "Solrock",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "339": {
+        "Name": "Barboach",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "340": {
+        "Name": "Whiscash",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "341": {
+        "Name": "Corphish",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "342": {
+        "Name": "Crawdaunt",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "343": {
+        "Name": "Baltoy",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "344": {
+        "Name": "Claydol",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "345": {
+        "Name": "Lileep",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "346": {
+        "Name": "Cradily",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "347": {
+        "Name": "Anorith",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "348": {
+        "Name": "Armaldo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "349": {
+        "Name": "Feebas",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "350": {
+        "Name": "Milotic",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "351": {
+        "Name": "Castform",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "352": {
+        "Name": "Kecleon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "353": {
+        "Name": "Shuppet",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "354": {
+        "Name": "Banette",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "355": {
+        "Name": "Duskull",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "356": {
+        "Name": "Dusclops",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "357": {
+        "Name": "Tropius",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "358": {
+        "Name": "Chimecho",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "359": {
+        "Name": "Absol",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "360": {
+        "Name": "Wynaut",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "361": {
+        "Name": "Snorunt",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "362": {
+        "Name": "Glalie",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "363": {
+        "Name": "Spheal",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "364": {
+        "Name": "Sealeo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "365": {
+        "Name": "Walrein",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "366": {
+        "Name": "Clamperl",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "367": {
+        "Name": "Huntail",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "368": {
+        "Name": "Gorebyss",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "369": {
+        "Name": "Relicanth",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "370": {
+        "Name": "Luvdisc",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "371": {
+        "Name": "Bagon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "372": {
+        "Name": "Shelgon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "373": {
+        "Name": "Salamence",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "374": {
+        "Name": "Beldum",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "375": {
+        "Name": "Metang",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "376": {
+        "Name": "Metagross",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "377": {
+        "Name": "Regirock",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "378": {
+        "Name": "Regice",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "379": {
+        "Name": "Registeel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "380": {
+        "Name": "Latias",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "381": {
+        "Name": "Latios",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "382": {
+        "Name": "Kyogre",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "383": {
+        "Name": "Groudon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "384": {
+        "Name": "Rayquaza",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "385": {
+        "Name": "Jirachi",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "386": {
+        "Name": "Deoxys",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "387": {
+        "Name": "Turtwig",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "388": {
+        "Name": "Grotle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "389": {
+        "Name": "Torterra",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "390": {
+        "Name": "Chimchar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "391": {
+        "Name": "Monferno",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "392": {
+        "Name": "Infernape",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "393": {
+        "Name": "Piplup",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "394": {
+        "Name": "Prinplup",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "395": {
+        "Name": "Empoleon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "396": {
+        "Name": "Starly",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "397": {
+        "Name": "Staravia",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "398": {
+        "Name": "Staraptor",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "399": {
+        "Name": "Bidoof",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "400": {
+        "Name": "Bibarel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "401": {
+        "Name": "Kricketot",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "402": {
+        "Name": "Kricketune",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "403": {
+        "Name": "Shinx",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "404": {
+        "Name": "Luxio",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "405": {
+        "Name": "Luxray",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "406": {
+        "Name": "Budew",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "407": {
+        "Name": "Roserade",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "408": {
+        "Name": "Cranidos",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "409": {
+        "Name": "Rampardos",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "410": {
+        "Name": "Shieldon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "411": {
+        "Name": "Bastiodon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "412": {
+        "Name": "Burmy",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "413": {
+        "Name": "Wormadam",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "414": {
+        "Name": "Mothim",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "415": {
+        "Name": "Combee",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "416": {
+        "Name": "Vespiquen",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "417": {
+        "Name": "Pachirisu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "418": {
+        "Name": "Buizel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "419": {
+        "Name": "Floatzel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "420": {
+        "Name": "Cherubi",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "421": {
+        "Name": "Cherrim",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "422": {
+        "Name": "Shellos",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "423": {
+        "Name": "Gastrodon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "424": {
+        "Name": "Ambipom",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "425": {
+        "Name": "Drifloon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "426": {
+        "Name": "Drifblim",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "427": {
+        "Name": "Buneary",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "428": {
+        "Name": "Lopunny",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "429": {
+        "Name": "Mismagius",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "430": {
+        "Name": "Honchkrow",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "431": {
+        "Name": "Glameow",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "432": {
+        "Name": "Purugly",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "433": {
+        "Name": "Chingling",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "434": {
+        "Name": "Stunky",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "435": {
+        "Name": "Skuntank",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "436": {
+        "Name": "Bronzor",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "437": {
+        "Name": "Bronzong",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "438": {
+        "Name": "Bonsly",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "439": {
+        "Name": "Mime Jr.",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "440": {
+        "Name": "Happiny",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "441": {
+        "Name": "Chatot",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "442": {
+        "Name": "Spiritomb",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "443": {
+        "Name": "Gible",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "444": {
+        "Name": "Gabite",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "445": {
+        "Name": "Garchomp",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "446": {
+        "Name": "Munchlax",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "447": {
+        "Name": "Riolu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "448": {
+        "Name": "Lucario",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "449": {
+        "Name": "Hippopotas",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "450": {
+        "Name": "Hippowdon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "451": {
+        "Name": "Skorupi",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "452": {
+        "Name": "Drapion",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "453": {
+        "Name": "Croagunk",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "454": {
+        "Name": "Toxicroak",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "455": {
+        "Name": "Carnivine",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "456": {
+        "Name": "Finneon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "457": {
+        "Name": "Lumineon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "458": {
+        "Name": "Mantyke",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "459": {
+        "Name": "Snover",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "460": {
+        "Name": "Abomasnow",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "461": {
+        "Name": "Weavile",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "462": {
+        "Name": "Magnezone",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "463": {
+        "Name": "Lickilicky",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "464": {
+        "Name": "Rhyperior",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "465": {
+        "Name": "Tangrowth",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "466": {
+        "Name": "Electivire",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "467": {
+        "Name": "Magmortar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "468": {
+        "Name": "Togekiss",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "469": {
+        "Name": "Yanmega",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "470": {
+        "Name": "Leafeon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "471": {
+        "Name": "Glaceon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "472": {
+        "Name": "Gliscor",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "473": {
+        "Name": "Mamoswine",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "474": {
+        "Name": "Porygon-Z",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "475": {
+        "Name": "Gallade",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "476": {
+        "Name": "Probopass",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "477": {
+        "Name": "Dusknoir",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "478": {
+        "Name": "Froslass",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "479": {
+        "Name": "Rotom",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "480": {
+        "Name": "Uxie",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "481": {
+        "Name": "Mesprit",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "482": {
+        "Name": "Azelf",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "483": {
+        "Name": "Dialga",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "484": {
+        "Name": "Palkia",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "485": {
+        "Name": "Heatran",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "486": {
+        "Name": "Regigigas",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "487": {
+        "Name": "Giratina",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "488": {
+        "Name": "Cresselia",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "489": {
+        "Name": "Phione",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "490": {
+        "Name": "Manaphy",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "491": {
+        "Name": "Darkrai",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "492": {
+        "Name": "Shaymin",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "493": {
+        "Name": "Arceus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "494": {
+        "Name": "Victini",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "495": {
+        "Name": "Snivy",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "496": {
+        "Name": "Servine",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "497": {
+        "Name": "Serperior",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "498": {
+        "Name": "Tepig",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "499": {
+        "Name": "Pignite",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "500": {
+        "Name": "Emboar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "501": {
+        "Name": "Oshawott",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "502": {
+        "Name": "Dewott",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "503": {
+        "Name": "Samurott",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "504": {
+        "Name": "Patrat",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "505": {
+        "Name": "Watchog",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "506": {
+        "Name": "Lillipup",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "507": {
+        "Name": "Herdier",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "508": {
+        "Name": "Stoutland",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "509": {
+        "Name": "Purrloin",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "510": {
+        "Name": "Liepard",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "511": {
+        "Name": "Pansage",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "512": {
+        "Name": "Simisage",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "513": {
+        "Name": "Pansear",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "514": {
+        "Name": "Simisear",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "515": {
+        "Name": "Panpour",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "516": {
+        "Name": "Simipour",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "517": {
+        "Name": "Munna",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "518": {
+        "Name": "Musharna",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "519": {
+        "Name": "Pidove",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "520": {
+        "Name": "Tranquill",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "521": {
+        "Name": "Unfezant",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "522": {
+        "Name": "Blitzle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "523": {
+        "Name": "Zebstrika",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "524": {
+        "Name": "Roggenrola",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "525": {
+        "Name": "Boldore",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "526": {
+        "Name": "Gigalith",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "527": {
+        "Name": "Woobat",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "528": {
+        "Name": "Swoobat",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "529": {
+        "Name": "Drilbur",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "530": {
+        "Name": "Excadrill",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "531": {
+        "Name": "Audino",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "532": {
+        "Name": "Timburr",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "533": {
+        "Name": "Gurdurr",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "534": {
+        "Name": "Conkeldurr",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "535": {
+        "Name": "Tympole",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "536": {
+        "Name": "Palpitoad",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "537": {
+        "Name": "Seismitoad",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "538": {
+        "Name": "Throh",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "539": {
+        "Name": "Sawk",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "540": {
+        "Name": "Sewaddle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "541": {
+        "Name": "Swadloon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "542": {
+        "Name": "Leavanny",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "543": {
+        "Name": "Venipede",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "544": {
+        "Name": "Whirlipede",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "545": {
+        "Name": "Scolipede",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "546": {
+        "Name": "Cottonee",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "547": {
+        "Name": "Whimsicott",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "548": {
+        "Name": "Petilil",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "549": {
+        "Name": "Lilligant",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "550": {
+        "Name": "Basculin",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "551": {
+        "Name": "Sandile",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "552": {
+        "Name": "Krokorok",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "553": {
+        "Name": "Krookodile",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "554": {
+        "Name": "Darumaka",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "555": {
+        "Name": "Darmanitan",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "556": {
+        "Name": "Maractus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "557": {
+        "Name": "Dwebble",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "558": {
+        "Name": "Crustle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "559": {
+        "Name": "Scraggy",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "560": {
+        "Name": "Scrafty",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "561": {
+        "Name": "Sigilyph",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "562": {
+        "Name": "Yamask",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "563": {
+        "Name": "Cofagrigus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "564": {
+        "Name": "Tirtouga",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "565": {
+        "Name": "Carracosta",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "566": {
+        "Name": "Archen",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "567": {
+        "Name": "Archeops",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "568": {
+        "Name": "Trubbish",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "569": {
+        "Name": "Garbodor",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "570": {
+        "Name": "Zorua",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "571": {
+        "Name": "Zoroark",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "572": {
+        "Name": "Minccino",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "573": {
+        "Name": "Cinccino",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "574": {
+        "Name": "Gothita",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "575": {
+        "Name": "Gothorita",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "576": {
+        "Name": "Gothitelle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "577": {
+        "Name": "Solosis",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "578": {
+        "Name": "Duosion",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "579": {
+        "Name": "Reuniclus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "580": {
+        "Name": "Ducklett",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "581": {
+        "Name": "Swanna",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "582": {
+        "Name": "Vanillite",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "583": {
+        "Name": "Vanillish",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "584": {
+        "Name": "Vanilluxe",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "585": {
+        "Name": "Deerling",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "586": {
+        "Name": "Sawsbuck",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "587": {
+        "Name": "Emolga",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "588": {
+        "Name": "Karrablast",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "589": {
+        "Name": "Escavalier",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "590": {
+        "Name": "Foongus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "591": {
+        "Name": "Amoonguss",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "592": {
+        "Name": "Frillish",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "593": {
+        "Name": "Jellicent",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "594": {
+        "Name": "Alomomola",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "595": {
+        "Name": "Joltik",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "596": {
+        "Name": "Galvantula",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "597": {
+        "Name": "Ferroseed",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "598": {
+        "Name": "Ferrothorn",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "599": {
+        "Name": "Klink",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "600": {
+        "Name": "Klang",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "601": {
+        "Name": "Klinklang",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "602": {
+        "Name": "Tynamo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "603": {
+        "Name": "Eelektrik",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "604": {
+        "Name": "Eelektross",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "605": {
+        "Name": "Elgyem",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "606": {
+        "Name": "Beheeyem",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "607": {
+        "Name": "Litwick",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "608": {
+        "Name": "Lampent",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "609": {
+        "Name": "Chandelure",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "610": {
+        "Name": "Axew",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "611": {
+        "Name": "Fraxure",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "612": {
+        "Name": "Haxorus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "613": {
+        "Name": "Cubchoo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "614": {
+        "Name": "Beartic",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "615": {
+        "Name": "Cryogonal",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "616": {
+        "Name": "Shelmet",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "617": {
+        "Name": "Accelgor",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "618": {
+        "Name": "Stunfisk",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "619": {
+        "Name": "Mienfoo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "620": {
+        "Name": "Mienshao",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "621": {
+        "Name": "Druddigon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "622": {
+        "Name": "Golett",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "623": {
+        "Name": "Golurk",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "624": {
+        "Name": "Pawniard",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "625": {
+        "Name": "Bisharp",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "626": {
+        "Name": "Bouffalant",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "627": {
+        "Name": "Rufflet",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "628": {
+        "Name": "Braviary",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "629": {
+        "Name": "Vullaby",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "630": {
+        "Name": "Mandibuzz",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "631": {
+        "Name": "Heatmor",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "632": {
+        "Name": "Durant",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "633": {
+        "Name": "Deino",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "634": {
+        "Name": "Zweilous",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "635": {
+        "Name": "Hydreigon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "636": {
+        "Name": "Larvesta",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "637": {
+        "Name": "Volcarona",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "638": {
+        "Name": "Cobalion",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "639": {
+        "Name": "Terrakion",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "640": {
+        "Name": "Virizion",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "641": {
+        "Name": "Tornadus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "642": {
+        "Name": "Thundurus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "643": {
+        "Name": "Reshiram",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "644": {
+        "Name": "Zekrom",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "645": {
+        "Name": "Landorus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "646": {
+        "Name": "Kyurem",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "647": {
+        "Name": "Keldeo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "648": {
+        "Name": "Meloetta",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "649": {
+        "Name": "Genesect",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "650": {
+        "Name": "Chespin",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "651": {
+        "Name": "Quilladin",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "652": {
+        "Name": "Chesnaught",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "653": {
+        "Name": "Fennekin",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "654": {
+        "Name": "Braixen",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "655": {
+        "Name": "Delphox",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "656": {
+        "Name": "Froakie",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "657": {
+        "Name": "Frogadier",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "658": {
+        "Name": "Greninja",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "659": {
+        "Name": "Bunnelby",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "660": {
+        "Name": "Diggersby",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "661": {
+        "Name": "Fletchling",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "662": {
+        "Name": "Fletchinder",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "663": {
+        "Name": "Talonflame",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "664": {
+        "Name": "Scatterbug",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "665": {
+        "Name": "Spewpa",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "666": {
+        "Name": "Vivillon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "667": {
+        "Name": "Litleo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "668": {
+        "Name": "Pyroar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "669": {
+        "Name": "Flab\u00c3\u00a9b\u00c3\u00a9",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "670": {
+        "Name": "Floette",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "671": {
+        "Name": "Florges",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "672": {
+        "Name": "Skiddo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "673": {
+        "Name": "Gogoat",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "674": {
+        "Name": "Pancham",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "675": {
+        "Name": "Pangoro",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "676": {
+        "Name": "Furfrou",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "677": {
+        "Name": "Espurr",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "678": {
+        "Name": "Meowstic",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "679": {
+        "Name": "Honedge",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "680": {
+        "Name": "Doublade",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "681": {
+        "Name": "Aegislash",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "682": {
+        "Name": "Spritzee",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "683": {
+        "Name": "Aromatisse",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "684": {
+        "Name": "Swirlix",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "685": {
+        "Name": "Slurpuff",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "686": {
+        "Name": "Inkay",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "687": {
+        "Name": "Malamar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "688": {
+        "Name": "Binacle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "689": {
+        "Name": "Barbaracle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "690": {
+        "Name": "Skrelp",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "691": {
+        "Name": "Dragalge",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "692": {
+        "Name": "Clauncher",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "693": {
+        "Name": "Clawitzer",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "694": {
+        "Name": "Helioptile",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "695": {
+        "Name": "Heliolisk",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "696": {
+        "Name": "Tyrunt",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "697": {
+        "Name": "Tyrantrum",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "698": {
+        "Name": "Amaura",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "699": {
+        "Name": "Aurorus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "700": {
+        "Name": "Sylveon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "701": {
+        "Name": "Hawlucha",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "702": {
+        "Name": "Dedenne",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "703": {
+        "Name": "Carbink",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "704": {
+        "Name": "Goomy",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "705": {
+        "Name": "Sliggoo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "706": {
+        "Name": "Goodra",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "707": {
+        "Name": "Klefki",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "708": {
+        "Name": "Phantump",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "709": {
+        "Name": "Trevenant",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "710": {
+        "Name": "Pumpkaboo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "711": {
+        "Name": "Gourgeist",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "712": {
+        "Name": "Bergmite",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "713": {
+        "Name": "Avalugg",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "714": {
+        "Name": "Noibat",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "715": {
+        "Name": "Noivern",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "716": {
+        "Name": "Xerneas",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "717": {
+        "Name": "Yveltal",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "718": {
+        "Name": "Zygarde",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "719": {
+        "Name": "Diancie",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "720": {
+        "Name": "Hoopa",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "721": {
+        "Name": "Volcanion",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "722": {
+        "Name": "Rowlet",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "723": {
+        "Name": "Dartrix",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "724": {
+        "Name": "Decidueye",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "725": {
+        "Name": "Litten",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "726": {
+        "Name": "Torracat",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "727": {
+        "Name": "Incineroar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "728": {
+        "Name": "Popplio",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "729": {
+        "Name": "Brionne",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "730": {
+        "Name": "Primarina",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "731": {
+        "Name": "Pikipek",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "732": {
+        "Name": "Trumbeak",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "733": {
+        "Name": "Toucannon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "734": {
+        "Name": "Yungoos",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "735": {
+        "Name": "Gumshoos",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "736": {
+        "Name": "Grubbin",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "737": {
+        "Name": "Charjabug",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "738": {
+        "Name": "Vikavolt",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "739": {
+        "Name": "Crabrawler",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "740": {
+        "Name": "Crabominable",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "741": {
+        "Name": "Oricorio",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "742": {
+        "Name": "Cutiefly",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "743": {
+        "Name": "Ribombee",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "744": {
+        "Name": "Rockruff",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "745": {
+        "Name": "Lycanroc",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "746": {
+        "Name": "Wishiwashi",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "747": {
+        "Name": "Mareanie",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "748": {
+        "Name": "Toxapex",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "749": {
+        "Name": "Mudbray",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "750": {
+        "Name": "Mudsdale",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "751": {
+        "Name": "Dewpider",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "752": {
+        "Name": "Araquanid",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "753": {
+        "Name": "Fomantis",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "754": {
+        "Name": "Lurantis",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "755": {
+        "Name": "Morelull",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "756": {
+        "Name": "Shiinotic",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "757": {
+        "Name": "Salandit",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "758": {
+        "Name": "Salazzle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "759": {
+        "Name": "Stufful",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "760": {
+        "Name": "Bewear",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "761": {
+        "Name": "Bounsweet",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "762": {
+        "Name": "Steenee",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "763": {
+        "Name": "Tsareena",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "764": {
+        "Name": "Comfey",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "765": {
+        "Name": "Oranguru",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "766": {
+        "Name": "Passimian",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "767": {
+        "Name": "Wimpod",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "768": {
+        "Name": "Golisopod",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "769": {
+        "Name": "Sandygast",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "770": {
+        "Name": "Palossand",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "771": {
+        "Name": "Pyukumuku",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "772": {
+        "Name": "Type: Null",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "773": {
+        "Name": "Silvally",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "774": {
+        "Name": "Minior",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "775": {
+        "Name": "Komala",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "776": {
+        "Name": "Turtonator",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "777": {
+        "Name": "Togedemaru",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "778": {
+        "Name": "Mimikyu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "779": {
+        "Name": "Bruxish",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "780": {
+        "Name": "Drampa",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "781": {
+        "Name": "Dhelmise",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "782": {
+        "Name": "Jangmo-o",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "783": {
+        "Name": "Hakamo-o",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "784": {
+        "Name": "Kommo-o",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "785": {
+        "Name": "Tapu Koko",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "786": {
+        "Name": "Tapu Lele",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "787": {
+        "Name": "Tapu Bulu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "788": {
+        "Name": "Tapu Fini",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "789": {
+        "Name": "Cosmog",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "790": {
+        "Name": "Cosmoem",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "791": {
+        "Name": "Solgaleo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "792": {
+        "Name": "Lunala",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "793": {
+        "Name": "Nihilego",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "794": {
+        "Name": "Buzzwole",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "795": {
+        "Name": "Pheromosa",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "796": {
+        "Name": "Xurkitree",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "797": {
+        "Name": "Celesteela",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "798": {
+        "Name": "Kartana",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "799": {
+        "Name": "Guzzlord",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "800": {
+        "Name": "Necrozma",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "801": {
+        "Name": "Magearna",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "802": {
+        "Name": "Marshadow",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "803": {
+        "Name": "Poipole",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "804": {
+        "Name": "Naganadel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "805": {
+        "Name": "Stakataka",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "806": {
+        "Name": "Blacephalon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "807": {
+        "Name": "Zeraora",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "808": {
+        "Name": "Meltan",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "809": {
+        "Name": "Melmetal",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "810": {
+        "Name": "Grookey",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "811": {
+        "Name": "Thwackey",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "812": {
+        "Name": "Rillaboom",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "813": {
+        "Name": "Scorbunny",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "814": {
+        "Name": "Raboot",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "815": {
+        "Name": "Cinderace",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "816": {
+        "Name": "Sobble",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "817": {
+        "Name": "Drizzile",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "818": {
+        "Name": "Inteleon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "819": {
+        "Name": "Skwovet",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "820": {
+        "Name": "Greedent",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "821": {
+        "Name": "Rookidee",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "822": {
+        "Name": "Corvisquire",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "823": {
+        "Name": "Corviknight",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "824": {
+        "Name": "Blipbug",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "825": {
+        "Name": "Dottler",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "826": {
+        "Name": "Orbeetle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "827": {
+        "Name": "Nickit",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "828": {
+        "Name": "Thievul",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "829": {
+        "Name": "Gossifleur",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "830": {
+        "Name": "Eldegoss",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "831": {
+        "Name": "Wooloo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "832": {
+        "Name": "Dubwool",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "833": {
+        "Name": "Chewtle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "834": {
+        "Name": "Drednaw",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "835": {
+        "Name": "Yamper",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "836": {
+        "Name": "Boltund",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "837": {
+        "Name": "Rolycoly",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "838": {
+        "Name": "Carkol",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "839": {
+        "Name": "Coalossal",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "840": {
+        "Name": "Applin",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "841": {
+        "Name": "Flapple",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "842": {
+        "Name": "Appletun",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "843": {
+        "Name": "Silicobra",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "844": {
+        "Name": "Sandaconda",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "845": {
+        "Name": "Cramorant",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "846": {
+        "Name": "Arrokuda",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "847": {
+        "Name": "Barraskewda",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "848": {
+        "Name": "Toxel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "849": {
+        "Name": "Toxtricity",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "850": {
+        "Name": "Sizzlipede",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "851": {
+        "Name": "Centiskorch",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "852": {
+        "Name": "Clobbopus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "853": {
+        "Name": "Grapploct",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "854": {
+        "Name": "Sinistea",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "855": {
+        "Name": "Polteageist",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "856": {
+        "Name": "Hatenna",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "857": {
+        "Name": "Hattrem",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "858": {
+        "Name": "Hatterene",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "859": {
+        "Name": "Impidimp",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "860": {
+        "Name": "Morgrem",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "861": {
+        "Name": "Grimmsnarl",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "862": {
+        "Name": "Obstagoon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "863": {
+        "Name": "Perrserker",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "864": {
+        "Name": "Cursola",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "865": {
+        "Name": "Sirfetchd",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "866": {
+        "Name": "Mr. Rime",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "867": {
+        "Name": "Runerigus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "868": {
+        "Name": "Milcery",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "869": {
+        "Name": "Alcremie",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "870": {
+        "Name": "Falinks",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "871": {
+        "Name": "Pincurchin",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "872": {
+        "Name": "Snom",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "873": {
+        "Name": "Frosmoth",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "874": {
+        "Name": "Stonjourner",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "875": {
+        "Name": "Eiscue",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "876": {
+        "Name": "Indeedee",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "877": {
+        "Name": "Morpeko",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "878": {
+        "Name": "Cufant",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "879": {
+        "Name": "Copperajah",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "880": {
+        "Name": "Dracozolt",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "881": {
+        "Name": "Arctozolt",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "882": {
+        "Name": "Dracovish",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "883": {
+        "Name": "Arctovish",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "884": {
+        "Name": "Duraludon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "885": {
+        "Name": "Dreepy",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "886": {
+        "Name": "Drakloak",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "887": {
+        "Name": "Dragapult",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "888": {
+        "Name": "Zacian",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "889": {
+        "Name": "Zamazenta",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "890": {
+        "Name": "Eternatus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "891": {
+        "Name": "Kubfu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "892": {
+        "Name": "Urshifu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "893": {
+        "Name": "Zarude",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "894": {
+        "Name": "Regieleki",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "895": {
+        "Name": "Regidrago",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "896": {
+        "Name": "Glastrier",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "897": {
+        "Name": "Spectrier",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "898": {
+        "Name": "Calyrex",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "899": {
+        "Name": "Wyrdeer",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "900": {
+        "Name": "Kleavor",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "901": {
+        "Name": "Ursaluna",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "902": {
+        "Name": "Basculegion",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "903": {
+        "Name": "Sneasler",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "904": {
+        "Name": "Overqwil",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "905": {
+        "Name": "Enamorus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "906": {
+        "Name": "Sprigatito",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "907": {
+        "Name": "Floragato",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "908": {
+        "Name": "Meowscarada",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "909": {
+        "Name": "Fuecoco",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "910": {
+        "Name": "Crocalor",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "911": {
+        "Name": "Skeledirge",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "912": {
+        "Name": "Quaxly",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "913": {
+        "Name": "Quaxwell",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "914": {
+        "Name": "Quaquaval",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "915": {
+        "Name": "Lechonk",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "916": {
+        "Name": "Oinkologne",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "917": {
+        "Name": "Tarountula",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "918": {
+        "Name": "Spidops",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "919": {
+        "Name": "Nymble",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "920": {
+        "Name": "Lokix",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "921": {
+        "Name": "Pawmi",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "922": {
+        "Name": "Pawmo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "923": {
+        "Name": "Pawmot",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "924": {
+        "Name": "Tandemaus",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "925": {
+        "Name": "Maushold",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "926": {
+        "Name": "Fidough",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "927": {
+        "Name": "Dachsbun",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "928": {
+        "Name": "Smoliv",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "929": {
+        "Name": "Dolliv",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "930": {
+        "Name": "Arboliva",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "931": {
+        "Name": "Squawkabilly",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "932": {
+        "Name": "Nacli",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "933": {
+        "Name": "Naclstack",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "934": {
+        "Name": "Garganacl",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "935": {
+        "Name": "Charcadet",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "936": {
+        "Name": "Armarouge",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "937": {
+        "Name": "Ceruledge",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "938": {
+        "Name": "Tadbulb",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "939": {
+        "Name": "Bellibolt",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "940": {
+        "Name": "Wattrel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "941": {
+        "Name": "Kilowattrel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "942": {
+        "Name": "Maschiff",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "943": {
+        "Name": "Mabosstiff",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "944": {
+        "Name": "Shroodle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "945": {
+        "Name": "Grafaiai",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "946": {
+        "Name": "Bramblin",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "947": {
+        "Name": "Brambleghast",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "948": {
+        "Name": "Toedscool",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "949": {
+        "Name": "Toedscruel",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "950": {
+        "Name": "Klawf",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "951": {
+        "Name": "Capsakid",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "952": {
+        "Name": "Scovillain",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "953": {
+        "Name": "Rellor",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "954": {
+        "Name": "Rabsca",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "955": {
+        "Name": "Flittle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "956": {
+        "Name": "Espathra",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "957": {
+        "Name": "Tinkatink",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "958": {
+        "Name": "Tinkatuff",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "959": {
+        "Name": "Tinkaton",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "960": {
+        "Name": "Wiglett",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "961": {
+        "Name": "Wugtrio",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "962": {
+        "Name": "Bombirdier",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "963": {
+        "Name": "Finizen",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "964": {
+        "Name": "Palafin",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "965": {
+        "Name": "Varoom",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "966": {
+        "Name": "Revavroom",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "967": {
+        "Name": "Cyclizar",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "968": {
+        "Name": "Orthworm",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "969": {
+        "Name": "Glimmet",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "970": {
+        "Name": "Glimmora",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "971": {
+        "Name": "Greavard",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "972": {
+        "Name": "Houndstone",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "973": {
+        "Name": "Flamigo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "974": {
+        "Name": "Cetoddle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "975": {
+        "Name": "Cetitan",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "976": {
+        "Name": "Veluza",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "977": {
+        "Name": "Dondozo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "978": {
+        "Name": "Tatsugiri",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "979": {
+        "Name": "Annihilape",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "980": {
+        "Name": "Clodsire",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "981": {
+        "Name": "Farigiraf",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "982": {
+        "Name": "Dudunsparce",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "983": {
+        "Name": "Kingambit",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "984": {
+        "Name": "Great Tusk",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "985": {
+        "Name": "Scream Tail",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "986": {
+        "Name": "Brute Bonnet",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "987": {
+        "Name": "Flutter Mane",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "988": {
+        "Name": "Slither Wing",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "989": {
+        "Name": "Sandy Shocks",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "990": {
+        "Name": "Iron Treads",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "991": {
+        "Name": "Iron Bundle",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "992": {
+        "Name": "Iron Hands",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "993": {
+        "Name": "Iron Jugulis",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "994": {
+        "Name": "Iron Moth",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "995": {
+        "Name": "Iron Thorns",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "996": {
+        "Name": "Frigibax",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "997": {
+        "Name": "Arctibax",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "998": {
+        "Name": "Baxcalibur",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "999": {
+        "Name": "Gimmighoul",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1000": {
+        "Name": "Gholdengo",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1001": {
+        "Name": "Wo-Chien",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1002": {
+        "Name": "Chien-Pao",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1003": {
+        "Name": "Ting-Lu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1004": {
+        "Name": "Chi-Yu",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1005": {
+        "Name": "Roaring Moon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1006": {
+        "Name": "Iron Valiant",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1007": {
+        "Name": "Koraidon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1008": {
+        "Name": "Miraidon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1009": {
+        "Name": "Walking Wake",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1010": {
+        "Name": "Iron Leaves",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1011": {
+        "Name": "Dipplin",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1012": {
+        "Name": "Poltchageist",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1013": {
+        "Name": "Sinistcha",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1014": {
+        "Name": "Okidogi",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1015": {
+        "Name": "Munkidori",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1016": {
+        "Name": "Fezandipiti",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1017": {
+        "Name": "Ogerpon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1018": {
+        "Name": "Archaludon",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1019": {
+        "Name": "Hydrapple",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1020": {
+        "Name": "Gouging Fire",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1021": {
+        "Name": "Raging Bolt",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1022": {
+        "Name": "Iron Boulder",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1023": {
+        "Name": "Iron Crown",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1024": {
+        "Name": "Terapagos",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    },
+    "1025": {
+        "Name": "Pecharunt",
+        "InGame": false,
+        "Lucky": false,
+        "Hundo": false,
+        "Shiny": false,
+        "3Star": false
+    }
+}

@@ -1,0 +1,2 @@
+python PokemonGoDexTracker.py
+pause
