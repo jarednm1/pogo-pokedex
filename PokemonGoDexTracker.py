@@ -26,20 +26,29 @@ def ChangeDesiredFlag(Pokedex, Property):
     print(f"You are changing {Property}")
     print("What Pokemon Has Been Updated?")
     # Note: this is a string
-    PokemonDexNumber = input("Please Provide The Pokemon Dex Number (Ranges Accepted): ")
+    print("Ranges Accepted In The Following Format: 1-100")
+    PokemonDexNumber = input("Please Provide The Pokemon Dex Number(s):")
 
-    if ("-" in PokemonDexNumber):
-        numbers = re.findall(r'\d+', PokemonDexNumber)
-        beginingDexNumber = int(numbers[0])
-        endDexNumber = int(numbers[1])
-        
-        for num in range(beginingDexNumber, endDexNumber + 1):
-            Pokedex[str(num)][Property] = True # False # For mass ingame setting to false for early numbers
+    keys = Pokedex.keys()
+    lastEntry = max(Pokedex.keys(), key=int)
 
+    if(PokemonDexNumber > lastEntry or PokemonDexNumber <= "0"):
+        print("Number Provided Does Not Exist")
     else:
-        Pokedex[PokemonDexNumber][Property] = True
+        if ("-" in PokemonDexNumber):
+            numbers = re.findall(r'\d+', PokemonDexNumber)
+            beginingDexNumber = int(numbers[0])
+            endDexNumber = int(numbers[1])
 
-    WritePokedexIntoMemory(Pokedex)
+            if(beginingDexNumber > lastEntry or beginingDexNumber < "0" or endDexNumber > lastEntry or endDexNumber < "0"):
+                print("Number(s) Provided Does Not Exist")
+            else:            
+                for num in range(beginingDexNumber, endDexNumber + 1):
+                    Pokedex[str(num)][Property] = True
+        else:
+            Pokedex[PokemonDexNumber][Property] = True
+
+        WritePokedexIntoMemory(Pokedex)
 
 def ListPokemonChoice(Pokedex):
     print("What Remaining List Would You Like?")
@@ -47,6 +56,8 @@ def ListPokemonChoice(Pokedex):
     print("2. Remaining Hundos")
     print("3. Remaining 3Stars")
     print("4. Remaining Shinies")
+    print(" ")
+    print("Provide The Number Associated With Your Choice")
 
     PromptChoice = input("Choice: ")
 
@@ -79,6 +90,8 @@ def MathQuestionChoice(Pokedex):
     print("2. Hundos Obtained")
     print("3. 3Stars Obtained")
     print("4. Shinies Obtained")
+    print(" ")
+    print("Provide The Number Associated With Your Choice")
 
     PromptChoice = input("Choice: ")
 
@@ -120,6 +133,7 @@ try:
         # Load Data
         Pokedex = ReadPokedexIntoMemory()
 
+        print(" ")
         print("What Would You Like To Do?")
         print("1. Pokemon Added To Game")
         print("2. Update Lucky List")
@@ -129,6 +143,8 @@ try:
         print("6. List Pokemon")
         print("7. Math/Precentage Breakdown")
         print("8. End Program")
+        print(" ")
+        print("Provide The Number Associated With Your Choice")
         PromptChoice = input("Choice: ")
 
         if(PromptChoice == "1"):
