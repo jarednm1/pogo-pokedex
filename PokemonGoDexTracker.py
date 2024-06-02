@@ -25,6 +25,7 @@ def ChangeDesiredFlag(Pokedex, Property):
 
     print(f"You are changing {Property}")
     print("What Pokemon Has Been Updated?")
+
     # Note: this is a string
     print("Ranges Accepted In The Following Format: 1-100")
     PokemonDexNumber = input("Please Provide The Pokemon Dex Number(s):")
@@ -62,28 +63,37 @@ def ListPokemonChoice(Pokedex):
     PromptChoice = input("Choice: ")
 
     if(PromptChoice == "1"):
-        ListRemainingPokemon(Pokedex, "Lucky")
+        HowWouldYouLikeItListed(Pokedex, "Lucky")
     elif(PromptChoice == "2"):
-        ListRemainingPokemon(Pokedex, "Hundo")
+        HowWouldYouLikeItListed(Pokedex, "Hundo")
     elif(PromptChoice == "3"):
-        ListRemainingPokemon(Pokedex, "3Star")
+        HowWouldYouLikeItListed(Pokedex, "3Star")
     elif(PromptChoice == "4"):
-        ListRemainingPokemon(Pokedex, "Shiny")
+        HowWouldYouLikeItListed(Pokedex, "Shiny")
     else:
         print("Farewell")
 
-def ListRemainingPokemon(Pokedex, Property):
+def HowWouldYouLikeItListed(Pokedex, Property):
     ListOfPokemon = ""
-    for PokemonDexNumber, PokedexProperties in Pokedex.items():
-        if(PokedexProperties[Property] == False and PokedexProperties['InGame'] == True):
-            ListOfPokemon = ListOfPokemon + PokedexProperties['Name'] +", "
-            #Another Option..
-            #print(f"{PokedexProperties['Name']}, ")
-    
+
+    print("Would you like the list by Name or Dex Number? ")
+    print("1. Name ")
+    print("2. Dex Number")
+
+    PromptChoice = input("Choice: ")
+    if(PromptChoice == "1"):
+        for PokemonDexNumber, PokedexProperties in Pokedex.items():
+            if(PokedexProperties[Property] == False and PokedexProperties['InGame'] == True):
+                ListOfPokemon = ListOfPokemon + PokedexProperties['Name'] +", "                
+    else:
+        for PokemonDexNumber, PokedexProperties in Pokedex.items():
+            if(PokedexProperties[Property] == False and PokedexProperties['InGame'] == True):
+                ListOfPokemon = ListOfPokemon + PokemonDexNumber +", "
+                
     print(ListOfPokemon)
     print("=========================================================")
-    print(" ")
-    
+    print(" ")    
+
 def MathQuestionChoice(Pokedex):
     print("What Percentage Would you like to see")
     print("1. Luckies Obtained")
