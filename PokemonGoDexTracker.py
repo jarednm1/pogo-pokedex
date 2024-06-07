@@ -20,6 +20,18 @@ def WritePokedexIntoMemory(Pokedex):
     print("=========================================================")
     print(" ")
 
+# Validate Pokedex Numbers
+def ValidateDexNumber(Pokedex, num1, num2):
+    keys = Pokedex.keys()
+    lastEntry = int(max(Pokedex.keys(), key=int))
+
+    isValid = True
+    if(num1 > lastEntry or num1 <= 0 or
+               num2 > lastEntry or num2 <= 0):
+                isValid = False
+
+    return isValid
+
 # General Manipulation Function
 def ChangeDesiredFlag(Pokedex, Property):
 
@@ -28,28 +40,27 @@ def ChangeDesiredFlag(Pokedex, Property):
 
     # Note: this is a string
     print("Ranges Accepted In The Following Format: 1-100")
-    PokemonDexNumber = input("Please Provide The Pokemon Dex Number(s):")
+    PokemonDexNumber = input("Please Provide The Pokemon Dex Number(s): ")
 
-    keys = Pokedex.keys()
-    lastEntry = max(Pokedex.keys(), key=int)
-
-    if(PokemonDexNumber > lastEntry or PokemonDexNumber <= "0"):
-        print("Number Provided Does Not Exist")
-    else:
-        if ("-" in PokemonDexNumber):
+    isValidNumber = True
+    if ("-" in PokemonDexNumber):
             numbers = re.findall(r'\d+', PokemonDexNumber)
             beginingDexNumber = int(numbers[0])
             endDexNumber = int(numbers[1])
+            isValidNumber = ValidateDexNumber(Pokedex, beginingDexNumber, endDexNumber)
+    else:
+        isValidNumber = ValidateDexNumber(Pokedex, PokemonDexNumber, 1)
 
-            if(beginingDexNumber > lastEntry or beginingDexNumber < "0" or endDexNumber > lastEntry or endDexNumber < "0"):
-                print("Number(s) Provided Does Not Exist")
-            else:            
-                for num in range(beginingDexNumber, endDexNumber + 1):
+    if(isValidNumber == True):
+        if ("-" in PokemonDexNumber):
+            for num in range(beginingDexNumber, endDexNumber + 1):
                     Pokedex[str(num)][Property] = True
         else:
             Pokedex[PokemonDexNumber][Property] = True
 
         WritePokedexIntoMemory(Pokedex)
+    else:
+        print("Number Provided Does Not Exist")
 
 def ListPokemonChoice(Pokedex):
     print("What Remaining List Would You Like?")
