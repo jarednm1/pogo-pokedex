@@ -27,9 +27,8 @@ def ValidateDexNumber(Pokedex, num1, num2):
 
     isValid = True
     if(int(num1) > lastEntry or int(num1) <= 0 or
-               num2 > lastEntry or num2 <= 0):
-                isValid = False
-
+        num2 > lastEntry or num2 <= 0):
+        isValid = False
     return isValid
 
 # General Manipulation Function
