@@ -26,9 +26,9 @@ def ValidateDexNumber(Pokedex, num1, num2):
     lastEntry = int(max(Pokedex.keys(), key=int))
 
     isValid = True
-    if(num1 > lastEntry or num1 <= 0 or
-               num2 > lastEntry or num2 <= 0):
-                isValid = False
+    if(int(num1) > lastEntry or int(num1) <= 0 or
+        num2 > lastEntry or num2 <= 0):
+        isValid = False
 
     return isValid
 
