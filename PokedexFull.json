@@ -2154,7 +2154,7 @@
     "270": {
         "Name": "Lotad",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -2170,7 +2170,7 @@
     "272": {
         "Name": "Ludicolo",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -4122,7 +4122,7 @@
     "516": {
         "Name": "Simipour",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5290,7 +5290,7 @@
     "662": {
         "Name": "Fletchinder",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5298,7 +5298,7 @@
     "663": {
         "Name": "Talonflame",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5386,7 +5386,7 @@
     "674": {
         "Name": "Pancham",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5394,7 +5394,7 @@
     "675": {
         "Name": "Pangoro",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
