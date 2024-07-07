@@ -922,7 +922,7 @@
     "116": {
         "Name": "Horsea",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": true,
         "Shiny": false,
         "3Star": true
@@ -930,7 +930,7 @@
     "117": {
         "Name": "Seadra",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": true,
         "Shiny": false,
         "3Star": true
@@ -962,7 +962,7 @@
     "121": {
         "Name": "Starmie",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -1251,7 +1251,7 @@
         "Name": "Typhlosion",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1259,7 +1259,7 @@
         "Name": "Totodile",
         "InGame": true,
         "Lucky": false,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1267,7 +1267,7 @@
         "Name": "Croconaw",
         "InGame": true,
         "Lucky": false,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1275,7 +1275,7 @@
         "Name": "Feraligatr",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1299,15 +1299,15 @@
         "Name": "Hoothoot",
         "InGame": true,
         "Lucky": false,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
     "164": {
         "Name": "Noctowl",
         "InGame": true,
-        "Lucky": false,
-        "Hundo": false,
+        "Lucky": true,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1315,7 +1315,7 @@
         "Name": "Ledyba",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1323,7 +1323,7 @@
         "Name": "Ledian",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1338,7 +1338,7 @@
     "168": {
         "Name": "Ariados",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -1387,7 +1387,7 @@
         "Name": "Igglybuff",
         "InGame": true,
         "Lucky": false,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1403,7 +1403,7 @@
         "Name": "Togetic",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1427,7 +1427,7 @@
         "Name": "Mareep",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1435,7 +1435,7 @@
         "Name": "Flaaffy",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1443,7 +1443,7 @@
         "Name": "Ampharos",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1475,7 +1475,7 @@
         "Name": "Sudowoodo",
         "InGame": true,
         "Lucky": false,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1547,7 +1547,7 @@
         "Name": "Wooper",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1619,7 +1619,7 @@
         "Name": "Girafarig",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1627,7 +1627,7 @@
         "Name": "Pineco",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1643,7 +1643,7 @@
         "Name": "Dunsparce",
         "InGame": true,
         "Lucky": false,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1667,7 +1667,7 @@
         "Name": "Snubbull",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1675,7 +1675,7 @@
         "Name": "Granbull",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1691,7 +1691,7 @@
         "Name": "Scizor",
         "InGame": true,
         "Lucky": false,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1699,7 +1699,7 @@
         "Name": "Shuckle",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1723,7 +1723,7 @@
         "Name": "Teddiursa",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1731,7 +1731,7 @@
         "Name": "Ursaring",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1755,7 +1755,7 @@
         "Name": "Swinub",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1763,7 +1763,7 @@
         "Name": "Piloswine",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1779,7 +1779,7 @@
         "Name": "Remoraid",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1819,7 +1819,7 @@
         "Name": "Houndour",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1827,22 +1827,22 @@
         "Name": "Houndoom",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
     "230": {
         "Name": "Kingdra",
         "InGame": true,
-        "Lucky": false,
-        "Hundo": false,
+        "Lucky": true,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
     "231": {
         "Name": "Phanpy",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -1850,7 +1850,7 @@
     "232": {
         "Name": "Donphan",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -1859,7 +1859,7 @@
         "Name": "Porygon2",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1931,7 +1931,7 @@
         "Name": "Blissey",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1963,7 +1963,7 @@
         "Name": "Larvitar",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1971,7 +1971,7 @@
         "Name": "Pupitar",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -1979,7 +1979,7 @@
         "Name": "Tyranitar",
         "InGame": true,
         "Lucky": true,
-        "Hundo": false,
+        "Hundo": true,
         "Shiny": false,
         "3Star": true
     },
@@ -2762,7 +2762,7 @@
     "346": {
         "Name": "Cradily",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -3018,7 +3018,7 @@
     "378": {
         "Name": "Regice",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -4010,7 +4010,7 @@
     "502": {
         "Name": "Dewott",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -4018,7 +4018,7 @@
     "503": {
         "Name": "Samurott",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -4586,7 +4586,7 @@
     "574": {
         "Name": "Gothita",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -4594,7 +4594,7 @@
     "575": {
         "Name": "Gothorita",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -4602,7 +4602,7 @@
     "576": {
         "Name": "Gothitelle",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5122,7 +5122,7 @@
     "641": {
         "Name": "Tornadus",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5458,7 +5458,7 @@
     "683": {
         "Name": "Aromatisse",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5802,7 +5802,7 @@
     "726": {
         "Name": "Torracat",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5810,7 +5810,7 @@
     "727": {
         "Name": "Incineroar",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5818,7 +5818,7 @@
     "728": {
         "Name": "Popplio",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5826,7 +5826,7 @@
     "729": {
         "Name": "Brionne",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5834,7 +5834,7 @@
     "730": {
         "Name": "Primarina",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -6082,7 +6082,7 @@
     "761": {
         "Name": "Bounsweet",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -6090,7 +6090,7 @@
     "762": {
         "Name": "Steenee",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -6098,7 +6098,7 @@
     "763": {
         "Name": "Tsareena",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
