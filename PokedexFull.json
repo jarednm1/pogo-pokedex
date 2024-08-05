@@ -1122,7 +1122,7 @@
     "141": {
         "Name": "Kabutops",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -1370,7 +1370,7 @@
     "172": {
         "Name": "Pichu",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -1634,7 +1634,7 @@
     "205": {
         "Name": "Forretress",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -1994,7 +1994,7 @@
     "250": {
         "Name": "Ho-Oh",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -2610,7 +2610,7 @@
     "327": {
         "Name": "Spinda",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -2754,7 +2754,7 @@
     "345": {
         "Name": "Lileep",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -2794,7 +2794,7 @@
     "350": {
         "Name": "Milotic",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5274,7 +5274,7 @@
     "660": {
         "Name": "Diggersby",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5850,7 +5850,7 @@
     "732": {
         "Name": "Trumbeak",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5858,7 +5858,7 @@
     "733": {
         "Name": "Toucannon",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -5922,7 +5922,7 @@
     "741": {
         "Name": "Oricorio",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -6393,8 +6393,8 @@
     },
     "800": {
         "Name": "Necrozma",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
