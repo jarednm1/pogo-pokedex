@@ -3498,7 +3498,7 @@
     "438": {
         "Name": "Bonsly",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -3826,7 +3826,7 @@
     "479": {
         "Name": "Rotom",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -4962,7 +4962,7 @@
     "621": {
         "Name": "Druddigon",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -6241,7 +6241,7 @@
     },
     "781": {
         "Name": "Dhelmise",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6562,7 +6562,7 @@
     "821": {
         "Name": "Rookidee",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -6570,7 +6570,7 @@
     "822": {
         "Name": "Corvisquire",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -6578,7 +6578,7 @@
     "823": {
         "Name": "Corviknight",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -6609,7 +6609,7 @@
     },
     "827": {
         "Name": "Nickit",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6617,7 +6617,7 @@
     },
     "828": {
         "Name": "Thievul",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6778,7 +6778,7 @@
     "848": {
         "Name": "Toxel",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -6793,7 +6793,7 @@
     },
     "850": {
         "Name": "Sizzlipede",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6801,7 +6801,7 @@
     },
     "851": {
         "Name": "Centiskorch",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6826,7 +6826,7 @@
     "854": {
         "Name": "Sinistea",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -6834,7 +6834,7 @@
     "855": {
         "Name": "Polteageist",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -7121,7 +7121,7 @@
     },
     "891": {
         "Name": "Kubfu",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -7346,7 +7346,7 @@
     "919": {
         "Name": "Nymble",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -7354,7 +7354,7 @@
     "920": {
         "Name": "Lokix",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
