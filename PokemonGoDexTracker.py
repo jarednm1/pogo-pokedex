@@ -67,6 +67,10 @@ def ListPokemonChoice(Pokedex):
     print("2. Remaining Hundos")
     print("3. Remaining 3Stars")
     print("4. Remaining Shinies")
+    print("5. Remaining XXS")
+    print("6. Remaining XXL")
+    print("7. Remaining Shadow")
+    print("8. Remaining Purified")
     print(" ")
     print("Provide The Number Associated With Your Choice")
 
@@ -160,9 +164,13 @@ try:
         print("3. Update Hundo List")
         print("4. Update 3 Star List")
         print("5. Update Shiny List")
-        print("6. List Pokemon")
-        print("7. Math/Precentage Breakdown")
-        print("8. End Program")
+        print("6. Update XXS List")
+        print("7. Update XXL List")
+        print("8. Update Shadow List")
+        print("9. Update Purified List")
+        print("10. List Pokemon")
+        print("11. Math/Precentage Breakdown")
+        print("12. End Program")
         print(" ")
         print("Provide The Number Associated With Your Choice")
         PromptChoice = input("Choice: ")
@@ -176,10 +184,18 @@ try:
         elif(PromptChoice == "4"):
             ChangeDesiredFlag(Pokedex, "3Star")
         elif(PromptChoice == "5"):
-            ChangeDesiredFlag(Pokedex, "Lucky")
-        elif(PromptChoice == "6"):
+            ChangeDesiredFlag(Pokedex, "Shiny")
+        elif(PromptChoice == "5"):
+            ChangeDesiredFlag(Pokedex, "XXS")
+        elif(PromptChoice == "5"):
+            ChangeDesiredFlag(Pokedex, "XXL")
+        elif(PromptChoice == "5"):
+            ChangeDesiredFlag(Pokedex, "Shadow")
+        elif(PromptChoice == "5"):
+            ChangeDesiredFlag(Pokedex, "Purified")
+        elif(PromptChoice == "10"):
             ListPokemonChoice(Pokedex)
-        elif(PromptChoice == "7"):
+        elif(PromptChoice == "11"):
             MathQuestionChoice(Pokedex)
         else:
             print("Farewell")
