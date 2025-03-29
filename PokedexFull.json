@@ -6610,7 +6610,7 @@
     "827": {
         "Name": "Nickit",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -6618,7 +6618,7 @@
     "828": {
         "Name": "Thievul",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -6986,7 +6986,7 @@
     "874": {
         "Name": "Stonjourner",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -7546,7 +7546,7 @@
     "944": {
         "Name": "Shroodle",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -7554,7 +7554,7 @@
     "945": {
         "Name": "Grafaiai",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
