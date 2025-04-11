@@ -72,7 +72,7 @@ def ListPokemonChoice(Pokedex):
     print("7. Remaining Shadow")
     print("8. Remaining Purified")
     print(" ")
-    print("Provide The Number Associated With Your Choice")
+    print("Provide The Number Associated With Your Choice; Others Will Terminate This Screen")
 
     PromptChoice = input("Choice: ")
 
@@ -84,6 +84,14 @@ def ListPokemonChoice(Pokedex):
         HowWouldYouLikeItListed(Pokedex, "3Star")
     elif(PromptChoice == "4"):
         HowWouldYouLikeItListed(Pokedex, "Shiny")
+    elif(PromptChoice == "5"):
+        HowWouldYouLikeItListed(Pokedex, "XXS")
+    elif(PromptChoice == "6"):
+        HowWouldYouLikeItListed(Pokedex, "XXL")
+    elif(PromptChoice == "7"):
+        HowWouldYouLikeItListed(Pokedex, "Shadow")
+    elif(PromptChoice == "8"):
+        HowWouldYouLikeItListed(Pokedex, "Purified")
     else:
         print("Farewell")
 

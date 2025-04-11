@@ -35,6 +35,8 @@ NOTE: This does NOT work on Mac/Linux (should add something that does this for t
 ```python3 PokemonGoDexTracker.py```
 4. Press Enter
 
-## The Setup
+## Using This Tool
 
 When executing this for the first time, it is completely defaulted. You will need to mark pokemon in-game to true for tracking to begin. You can see avail pokemon here: https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_availability_(GO). Additionally, you can leverage the bulk add here as well!
+
+There is no undo button (currently). If you accidently set something to true, you will have to open a text editior, CTRL + F the name and set it back. This will come.... later
