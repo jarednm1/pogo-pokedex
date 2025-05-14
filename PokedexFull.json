@@ -3658,7 +3658,7 @@
     "458": {
         "Name": "Mantyke",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true
@@ -6625,16 +6625,16 @@
     },
     "829": {
         "Name": "Gossifleur",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
     },
     "830": {
         "Name": "Eldegoss",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -6713,7 +6713,7 @@
     },
     "840": {
         "Name": "Applin",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6721,7 +6721,7 @@
     },
     "841": {
         "Name": "Flapple",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6729,7 +6729,7 @@
     },
     "842": {
         "Name": "Appletun",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6794,7 +6794,7 @@
     "850": {
         "Name": "Sizzlipede",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -6802,7 +6802,7 @@
     "851": {
         "Name": "Centiskorch",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -7649,7 +7649,7 @@
     },
     "957": {
         "Name": "Tinkatink",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -7657,7 +7657,7 @@
     },
     "958": {
         "Name": "Tinkatuff",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -7665,7 +7665,7 @@
     },
     "959": {
         "Name": "Tinkaton",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -7857,7 +7857,7 @@
     },
     "983": {
         "Name": "Kingambit",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
