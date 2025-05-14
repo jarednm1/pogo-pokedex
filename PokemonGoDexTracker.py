@@ -1,214 +1,142 @@
-import re
-import ast
+import tkinter as tk
+from tkinter import simpledialog, messagebox, scrolledtext
 import json
-import time
+import re
 
-# Globals
 FilePath = "PokedexFull.json"
 
-# Data Storage
+# Original Functions
 def ReadPokedexIntoMemory():
     with open(FilePath) as file:
-        Pokedex = json.load(file)
-    return Pokedex
+        return json.load(file)
 
 def WritePokedexIntoMemory(Pokedex):
     with open(FilePath, 'w') as file:
-        # Indent maintains readability
         json.dump(Pokedex, file, indent=4)
-    print("Changes have been saved")
-    print("=========================================================")
-    print(" ")
 
-# Validate Pokedex Numbers
 def ValidateDexNumber(Pokedex, num1, num2):
     keys = Pokedex.keys()
     lastEntry = int(max(Pokedex.keys(), key=int))
+    return 0 < int(num1) <= lastEntry and 0 < int(num2) <= lastEntry
 
-    isValid = True
-    if(int(num1) > lastEntry or int(num1) <= 0 or
-        num2 > lastEntry or num2 <= 0):
-        isValid = False
-    return isValid
-
-# General Manipulation Function
 def ChangeDesiredFlag(Pokedex, Property):
+    dex_input = simpledialog.askstring("Input", f"Enter Dex Number(s) for {Property} (e.g., 1 or 1-10):")
+    if not dex_input:
+        return
 
-    print(f"You are changing {Property}")
-    print("What Pokemon Has Been Updated?")
-
-    # Note: this is a string
-    print("Ranges Accepted In The Following Format: 1-100")
-    PokemonDexNumber = input("Please Provide The Pokemon Dex Number(s): ")
-
-    isValidNumber = True
-    if ("-" in PokemonDexNumber):
-            numbers = re.findall(r'\d+', PokemonDexNumber)
-            beginingDexNumber = int(numbers[0])
-            endDexNumber = int(numbers[1])
-            isValidNumber = ValidateDexNumber(Pokedex, beginingDexNumber, endDexNumber)
+    if "-" in dex_input:
+        try:
+            numbers = re.findall(r'\d+', dex_input)
+            start, end = int(numbers[0]), int(numbers[1])
+            if not ValidateDexNumber(Pokedex, start, end):
+                raise ValueError
+            for num in range(start, end + 1):
+                Pokedex[str(num)][Property] = True
+        except:
+            messagebox.showerror("Error", "Invalid range.")
+            return
     else:
-        isValidNumber = ValidateDexNumber(Pokedex, PokemonDexNumber, 1)
+        if not ValidateDexNumber(Pokedex, dex_input, 1):
+            messagebox.showerror("Error", "Invalid Dex number.")
+            return
+        Pokedex[dex_input][Property] = True
 
-    if(isValidNumber == True):
-        if ("-" in PokemonDexNumber):
-            for num in range(beginingDexNumber, endDexNumber + 1):
-                    Pokedex[str(num)][Property] = True
-        else:
-            Pokedex[PokemonDexNumber][Property] = True
-
-        WritePokedexIntoMemory(Pokedex)
-    else:
-        print("Number Provided Does Not Exist")
-
-def ListPokemonChoice(Pokedex):
-    print("What Remaining List Would You Like?")
-    print("1. Remaining Luckies")
-    print("2. Remaining Hundos")
-    print("3. Remaining 3Stars")
-    print("4. Remaining Shinies")
-    print("5. Remaining XXS")
-    print("6. Remaining XXL")
-    print("7. Remaining Shadow")
-    print("8. Remaining Purified")
-    print(" ")
-    print("Provide The Number Associated With Your Choice; Others Will Terminate This Screen")
-
-    PromptChoice = input("Choice: ")
-
-    if(PromptChoice == "1"):
-        HowWouldYouLikeItListed(Pokedex, "Lucky")
-    elif(PromptChoice == "2"):
-        HowWouldYouLikeItListed(Pokedex, "Hundo")
-    elif(PromptChoice == "3"):
-        HowWouldYouLikeItListed(Pokedex, "3Star")
-    elif(PromptChoice == "4"):
-        HowWouldYouLikeItListed(Pokedex, "Shiny")
-    elif(PromptChoice == "5"):
-        HowWouldYouLikeItListed(Pokedex, "XXS")
-    elif(PromptChoice == "6"):
-        HowWouldYouLikeItListed(Pokedex, "XXL")
-    elif(PromptChoice == "7"):
-        HowWouldYouLikeItListed(Pokedex, "Shadow")
-    elif(PromptChoice == "8"):
-        HowWouldYouLikeItListed(Pokedex, "Purified")
-    else:
-        print("Farewell")
+    WritePokedexIntoMemory(Pokedex)
+    messagebox.showinfo("Success", f"{Property} updated successfully.")
 
 def HowWouldYouLikeItListed(Pokedex, Property):
-    ListOfPokemon = ""
+    choice = messagebox.askquestion("List by", "List by Name? (No = Dex Number)")
+    by_name = (choice == 'yes')
 
-    print("Would you like the list by Name or Dex Number? ")
-    print("1. Name ")
-    print("2. Dex Number")
+    listed = []
+    for dex, props in Pokedex.items():
+        if not props[Property] and props["InGame"]:
+            listed.append(props["Name"] if by_name else dex)
 
-    PromptChoice = input("Choice: ")
-    if(PromptChoice == "1"):
-        for PokemonDexNumber, PokedexProperties in Pokedex.items():
-            if(PokedexProperties[Property] == False and PokedexProperties['InGame'] == True):
-                ListOfPokemon = ListOfPokemon + PokedexProperties['Name'] +", "                
-    else:
-        for PokemonDexNumber, PokedexProperties in Pokedex.items():
-            if(PokedexProperties[Property] == False and PokedexProperties['InGame'] == True):
-                ListOfPokemon = ListOfPokemon + PokemonDexNumber +", "
-                
-    print(ListOfPokemon)
-    print("=========================================================")
-    print(" ")    
+    show_scrollable_list(f"{Property} Remaining", listed)
 
-def MathQuestionChoice(Pokedex):
-    print("What Percentage Would you like to see")
-    print("1. Luckies Obtained")
-    print("2. Hundos Obtained")
-    print("3. 3Stars Obtained")
-    print("4. Shinies Obtained")
-    print(" ")
-    print("Provide The Number Associated With Your Choice")
-
-    PromptChoice = input("Choice: ")
-
-    if(PromptChoice == "1"):
-        MathQuestionAnswer(Pokedex, "Lucky")
-    elif(PromptChoice == "2"):
-        MathQuestionAnswer(Pokedex, "Hundo")
-    elif(PromptChoice == "3"):
-        MathQuestionAnswer(Pokedex, "3Star")
-    elif(PromptChoice == "4"):
-        MathQuestionAnswer(Pokedex, "Shiny")
-    else:
-        print("Farewell")
+def ListPokemonChoice(Pokedex):
+    def pick(prop):
+        HowWouldYouLikeItListed(Pokedex, prop)
+    options = [
+        ("Remaining Luckies", "Lucky"),
+        ("Remaining Hundos", "Hundo"),
+        ("Remaining 3Stars", "3Star"),
+        ("Remaining Shinies", "Shiny"),
+        ("Remaining XXS", "XXS"),
+        ("Remaining XXL", "XXL"),
+        ("Remaining Shadow", "Shadow"),
+        ("Remaining Purified", "Purified"),
+    ]
+    window = tk.Toplevel()
+    window.title("Remaining Lists")
+    for label, prop in options:
+        tk.Button(window, text=label, width=30, command=lambda p=prop: pick(p)).pack(pady=2)
 
 def MathQuestionAnswer(Pokedex, Property):
-    NumPokemonAvail = 0
-    NumOfPokemon = 0
-    for PokemonDexNumber, PokedexProperties in Pokedex.items():
-        if(PokedexProperties["InGame"] == True):
-            #ListOfPokemon = ListOfPokemon + PokedexProperties['Name'] +", "
-            #Another Option..
-            #print(f"{PokedexProperties['Name']}, ")
-            NumPokemonAvail = NumPokemonAvail + 1
+    total, obtained = 0, 0
+    for props in Pokedex.values():
+        if props["InGame"]:
+            total += 1
+        if props[Property]:
+            obtained += 1
+    messagebox.showinfo("Percentage", f"{Property} Pokémon: {obtained}/{total} ({obtained/total:.2%})")
 
-        if(PokedexProperties[Property] == True):
-            #ListOfPokemon = ListOfPokemon + PokedexProperties['Name'] +", "
-            #Another Option..
-            #print(f"{PokedexProperties['Name']}, ")
-            NumOfPokemon = NumOfPokemon + 1
-    
-    print(f"Number of {Property} Pokemon {NumOfPokemon}/{NumPokemonAvail}")
-    print("=========================================================")
-    print(" ")
-    return
+def MathQuestionChoice(Pokedex):
+    options = [
+        ("Luckies", "Lucky"),
+        ("Hundos", "Hundo"),
+        ("3Stars", "3Star"),
+        ("Shinies", "Shiny")
+    ]
+    window = tk.Toplevel()
+    window.title("Math Breakdown")
+    for label, prop in options:
+        tk.Button(window, text=label, width=30, command=lambda p=prop: MathQuestionAnswer(Pokedex, p)).pack(pady=2)
 
-# Main 
-try:
-    while(True):
-        # Load Data
+def show_scrollable_list(title, items):
+    window = tk.Toplevel()
+    window.title(title)
+    text_area = scrolledtext.ScrolledText(window, width=50, height=20)
+    text_area.pack()
+    text_area.insert(tk.END, ", ".join(items))
+
+# Main GUI
+def main_gui():
+    root = tk.Tk()
+    root.title("Pokémon Go Dex Tracker")
+
+    def wrapped_change(prop):
         Pokedex = ReadPokedexIntoMemory()
+        ChangeDesiredFlag(Pokedex, prop)
 
-        print(" ")
-        print("What Would You Like To Do?")
-        print("1. Pokemon Added To Game")
-        print("2. Update Lucky List")
-        print("3. Update Hundo List")
-        print("4. Update 3 Star List")
-        print("5. Update Shiny List")
-        print("6. Update XXS List")
-        print("7. Update XXL List")
-        print("8. Update Shadow List")
-        print("9. Update Purified List")
-        print("10. List Pokemon")
-        print("11. Math/Precentage Breakdown")
-        print("12. End Program")
-        print(" ")
-        print("Provide The Number Associated With Your Choice")
-        PromptChoice = input("Choice: ")
+    def wrapped_list():
+        Pokedex = ReadPokedexIntoMemory()
+        ListPokemonChoice(Pokedex)
 
-        if(PromptChoice == "1"):
-            ChangeDesiredFlag(Pokedex, "InGame")
-        elif(PromptChoice == "2"):
-            ChangeDesiredFlag(Pokedex, "Lucky")
-        elif(PromptChoice == "3"):
-            ChangeDesiredFlag(Pokedex, "Hundo")
-        elif(PromptChoice == "4"):
-            ChangeDesiredFlag(Pokedex, "3Star")
-        elif(PromptChoice == "5"):
-            ChangeDesiredFlag(Pokedex, "Shiny")
-        elif(PromptChoice == "5"):
-            ChangeDesiredFlag(Pokedex, "XXS")
-        elif(PromptChoice == "5"):
-            ChangeDesiredFlag(Pokedex, "XXL")
-        elif(PromptChoice == "5"):
-            ChangeDesiredFlag(Pokedex, "Shadow")
-        elif(PromptChoice == "5"):
-            ChangeDesiredFlag(Pokedex, "Purified")
-        elif(PromptChoice == "10"):
-            ListPokemonChoice(Pokedex)
-        elif(PromptChoice == "11"):
-            MathQuestionChoice(Pokedex)
-        else:
-            print("Farewell")
-            break
+    def wrapped_math():
+        Pokedex = ReadPokedexIntoMemory()
+        MathQuestionChoice(Pokedex)
 
-except:
-    #print("BLEW UP LOL")
-    throw
+    menu = [
+        ("Mark Pokémon as In Game", lambda: wrapped_change("InGame")),
+        ("Update Lucky List", lambda: wrapped_change("Lucky")),
+        ("Update Hundo List", lambda: wrapped_change("Hundo")),
+        ("Update 3 Star List", lambda: wrapped_change("3Star")),
+        ("Update Shiny List", lambda: wrapped_change("Shiny")),
+        ("Update XXS List", lambda: wrapped_change("XXS")),
+        ("Update XXL List", lambda: wrapped_change("XXL")),
+        ("Update Shadow List", lambda: wrapped_change("Shadow")),
+        ("Update Purified List", lambda: wrapped_change("Purified")),
+        ("List Pokémon", wrapped_list),
+        ("Math/Percentage Breakdown", wrapped_math),
+        ("Exit", root.quit),
+    ]
+
+    for label, cmd in menu:
+        tk.Button(root, text=label, width=40, command=cmd).pack(pady=4)
+
+    root.mainloop()
+
+if __name__ == "__main__":
+    main_gui()
