@@ -7809,7 +7809,7 @@
     },
     "977": {
         "Name": "Dondozo",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
