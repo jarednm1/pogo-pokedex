@@ -5425,7 +5425,7 @@
     },
     "679": {
         "Name": "Honedge",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -5433,7 +5433,7 @@
     },
     "680": {
         "Name": "Doublade",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -5441,7 +5441,7 @@
     },
     "681": {
         "Name": "Aegislash",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6673,7 +6673,7 @@
     },
     "835": {
         "Name": "Yamper",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6681,7 +6681,7 @@
     },
     "836": {
         "Name": "Boltund",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6865,7 +6865,7 @@
     },
     "859": {
         "Name": "Impidimp",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6873,7 +6873,7 @@
     },
     "860": {
         "Name": "Morgrem",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6881,7 +6881,7 @@
     },
     "861": {
         "Name": "Grimmsnarl",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6969,7 +6969,7 @@
     },
     "872": {
         "Name": "Snom",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -6977,7 +6977,7 @@
     },
     "873": {
         "Name": "Frosmoth",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -7065,7 +7065,7 @@
     },
     "884": {
         "Name": "Duraludon",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -7577,7 +7577,7 @@
     },
     "948": {
         "Name": "Toedscool",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -7585,7 +7585,7 @@
     },
     "949": {
         "Name": "Toedscruel",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -7817,7 +7817,7 @@
     },
     "978": {
         "Name": "Tatsugiri",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -8081,7 +8081,7 @@
     },
     "1011": {
         "Name": "Dipplin",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -8145,7 +8145,7 @@
     },
     "1019": {
         "Name": "Hydrapple",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
