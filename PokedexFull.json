@@ -5370,7 +5370,7 @@
     "672": {
         "Name": "Skiddo",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -5378,7 +5378,7 @@
     "673": {
         "Name": "Gogoat",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -6714,7 +6714,7 @@
     "840": {
         "Name": "Applin",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -6722,7 +6722,7 @@
     "841": {
         "Name": "Flapple",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -6730,7 +6730,7 @@
     "842": {
         "Name": "Appletun",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -7122,15 +7122,15 @@
     "891": {
         "Name": "Kubfu",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
     },
     "892": {
         "Name": "Urshifu",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -7578,7 +7578,7 @@
     "948": {
         "Name": "Toedscool",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -7586,7 +7586,7 @@
     "949": {
         "Name": "Toedscruel",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -7858,7 +7858,7 @@
     "983": {
         "Name": "Kingambit",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -8082,7 +8082,7 @@
     "1011": {
         "Name": "Dipplin",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
@@ -8146,7 +8146,7 @@
     "1019": {
         "Name": "Hydrapple",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false
