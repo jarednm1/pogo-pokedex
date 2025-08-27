@@ -193,13 +193,13 @@ try:
             ChangeDesiredFlag(Pokedex, "3Star")
         elif(PromptChoice == "5"):
             ChangeDesiredFlag(Pokedex, "Shiny")
-        elif(PromptChoice == "5"):
+        elif(PromptChoice == "6"):
             ChangeDesiredFlag(Pokedex, "XXS")
-        elif(PromptChoice == "5"):
+        elif(PromptChoice == "7"):
             ChangeDesiredFlag(Pokedex, "XXL")
-        elif(PromptChoice == "5"):
+        elif(PromptChoice == "8"):
             ChangeDesiredFlag(Pokedex, "Shadow")
-        elif(PromptChoice == "5"):
+        elif(PromptChoice == "9"):
             ChangeDesiredFlag(Pokedex, "Purified")
         elif(PromptChoice == "10"):
             ListPokemonChoice(Pokedex)
