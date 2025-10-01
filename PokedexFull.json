@@ -2426,7 +2426,7 @@
     "203": {
         "Name": "Girafarig",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
@@ -5282,7 +5282,7 @@
     "441": {
         "Name": "Chatot",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
@@ -10010,7 +10010,7 @@
     "835": {
         "Name": "Yamper",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -10022,7 +10022,7 @@
     "836": {
         "Name": "Boltund",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -11474,7 +11474,7 @@
     "957": {
         "Name": "Tinkatink",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -11486,7 +11486,7 @@
     "958": {
         "Name": "Tinkatuff",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -11498,7 +11498,7 @@
     "959": {
         "Name": "Tinkaton",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
