@@ -222,7 +222,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -234,7 +234,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -307,7 +307,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -1003,7 +1003,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -1015,7 +1015,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -1386,7 +1386,7 @@
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -1398,8 +1398,8 @@
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -1542,7 +1542,7 @@
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -1554,7 +1554,7 @@
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -1578,7 +1578,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -1818,7 +1818,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -1830,8 +1830,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -1843,7 +1843,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -1890,7 +1890,7 @@
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -1902,7 +1902,7 @@
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -1914,7 +1914,7 @@
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -2011,7 +2011,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -2394,7 +2394,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -2455,7 +2455,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -2514,7 +2514,7 @@
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -2586,7 +2586,7 @@
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -2598,8 +2598,8 @@
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -2718,7 +2718,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -2730,7 +2730,7 @@
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -2742,7 +2742,7 @@
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -2754,8 +2754,8 @@
         "Hundo": true,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -2887,7 +2887,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -3546,7 +3546,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -3558,7 +3558,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -3894,7 +3894,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -3906,7 +3906,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -4038,7 +4038,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -4062,10 +4062,10 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
-        "Shadow": false,
-        "Purified": false
+        "XXS": true,
+        "XXL": true,
+        "Shadow": true,
+        "Purified": true
     },
     "340": {
         "Name": "Whiscash",
@@ -4074,10 +4074,10 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
-        "Shadow": false,
-        "Purified": false
+        "Shadow": true,
+        "Purified": true
     },
     "341": {
         "Name": "Corphish",
@@ -4675,7 +4675,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -4687,7 +4687,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -4699,7 +4699,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -4710,8 +4710,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -4722,8 +4722,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -4734,8 +4734,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -4963,7 +4963,7 @@
         "Shiny": false,
         "3Star": false,
         "XXS": true,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -5047,7 +5047,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -5059,7 +5059,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -5071,7 +5071,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -5142,7 +5142,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -5166,7 +5166,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -5178,7 +5178,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -5190,7 +5190,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -5311,7 +5311,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -5323,7 +5323,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -5335,7 +5335,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -5527,7 +5527,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -5586,7 +5586,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -5634,8 +5634,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -5731,7 +5731,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -6342,7 +6342,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -6354,7 +6354,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -6366,7 +6366,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -6510,8 +6510,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -6522,8 +6522,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -6534,8 +6534,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -6678,8 +6678,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -6690,8 +6690,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -6738,7 +6738,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -7279,7 +7279,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -7291,7 +7291,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -7303,7 +7303,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -7386,7 +7386,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -7398,7 +7398,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -7458,8 +7458,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -7663,7 +7663,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -7794,7 +7794,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -7806,7 +7806,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -7818,7 +7818,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -8022,7 +8022,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -8034,7 +8034,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -8046,7 +8046,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -8095,7 +8095,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -8106,8 +8106,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -8119,7 +8119,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -8131,7 +8131,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -8383,7 +8383,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -8395,7 +8395,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -8406,7 +8406,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -8694,7 +8694,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -8706,7 +8706,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -8718,7 +8718,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -8978,7 +8978,7 @@
     "749": {
         "Name": "Mudbray",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -8990,7 +8990,7 @@
     "750": {
         "Name": "Mudsdale",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -9714,8 +9714,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -9726,8 +9726,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -9738,8 +9738,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -9750,7 +9750,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -9762,7 +9762,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -9774,7 +9774,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -9877,7 +9877,7 @@
     },
     "824": {
         "Name": "Blipbug",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -9889,7 +9889,7 @@
     },
     "825": {
         "Name": "Dottler",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -9901,7 +9901,7 @@
     },
     "826": {
         "Name": "Orbeetle",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -10033,8 +10033,8 @@
     },
     "837": {
         "Name": "Rolycoly",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -10045,8 +10045,8 @@
     },
     "838": {
         "Name": "Carkol",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -10057,8 +10057,8 @@
     },
     "839": {
         "Name": "Coalossal",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -10194,7 +10194,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -10206,32 +10206,32 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
     },
     "852": {
         "Name": "Clobbopus",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
     "853": {
         "Name": "Grapploct",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -10266,7 +10266,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -10278,7 +10278,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -10290,7 +10290,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -10374,7 +10374,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -10398,7 +10398,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -10454,7 +10454,7 @@
     "872": {
         "Name": "Snom",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -10466,7 +10466,7 @@
     "873": {
         "Name": "Frosmoth",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -10501,8 +10501,8 @@
     },
     "876": {
         "Name": "Indeedee",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -10602,7 +10602,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -10843,7 +10843,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -10994,7 +10994,7 @@
     "917": {
         "Name": "Tarountula",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -11006,7 +11006,7 @@
     "918": {
         "Name": "Spidops",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
@@ -11046,7 +11046,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -11058,7 +11058,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -11070,7 +11070,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -11106,7 +11106,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -11118,7 +11118,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -11130,7 +11130,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -11142,7 +11142,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -11154,7 +11154,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -11178,8 +11178,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -11190,8 +11190,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -11202,8 +11202,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -11251,7 +11251,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -11263,30 +11263,30 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
     "940": {
         "Name": "Wattrel",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
     },
     "941": {
         "Name": "Kilowattrel",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -11389,7 +11389,7 @@
     },
     "950": {
         "Name": "Klawf",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -11449,7 +11449,7 @@
     },
     "955": {
         "Name": "Flittle",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -11461,7 +11461,7 @@
     },
     "956": {
         "Name": "Espathra",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -11617,7 +11617,7 @@
     },
     "969": {
         "Name": "Glimmet",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -11629,7 +11629,7 @@
     },
     "970": {
         "Name": "Glimmora",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -11665,7 +11665,7 @@
     },
     "973": {
         "Name": "Flamigo",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
