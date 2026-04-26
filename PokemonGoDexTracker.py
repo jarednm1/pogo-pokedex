@@ -122,6 +122,8 @@ def MathQuestionChoice(Pokedex):
     print("2. Hundos Obtained")
     print("3. 3Stars Obtained")
     print("4. Shinies Obtained")
+    print("5. XXS Obtained")
+    print("6. XXL Obtained")
     print(" ")
     print("Provide The Number Associated With Your Choice")
 
@@ -135,6 +137,10 @@ def MathQuestionChoice(Pokedex):
         MathQuestionAnswer(Pokedex, "3Star")
     elif(PromptChoice == "4"):
         MathQuestionAnswer(Pokedex, "Shiny")
+    elif(PromptChoice == "5"):
+        MathQuestionAnswer(Pokedex, "XXS")
+    elif(PromptChoice == "6"):
+        MathQuestionAnswer(Pokedex, "XXL")
     else:
         print("Farewell")
 
@@ -154,7 +160,7 @@ def MathQuestionAnswer(Pokedex, Property):
             #print(f"{PokedexProperties['Name']}, ")
             NumOfPokemon = NumOfPokemon + 1
     
-    print(f"Number of {Property} Pokemon {NumOfPokemon}/{NumPokemonAvail}")
+    print(f"Number of {Property} Pokemon {NumOfPokemon}/{NumPokemonAvail} or {NumOfPokemon/NumPokemonAvail}&")
     print("=========================================================")
     print(" ")
     return
