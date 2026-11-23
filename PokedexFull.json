@@ -535,7 +535,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": true,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -3583,7 +3583,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -4399,7 +4399,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -5371,7 +5371,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -5646,7 +5646,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -6055,7 +6055,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": true,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -7482,7 +7482,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -7494,8 +7494,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -7627,7 +7627,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": true,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -7638,8 +7638,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -8941,7 +8941,7 @@
     },
     "746": {
         "Name": "Wishiwashi",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -8959,7 +8959,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -8971,7 +8971,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -9006,7 +9006,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -9018,7 +9018,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -9030,7 +9030,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -9042,7 +9042,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -9054,7 +9054,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -9066,7 +9066,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -9102,7 +9102,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -9114,7 +9114,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": true,
         "Shadow": false,
         "Purified": false
@@ -9241,7 +9241,7 @@
     },
     "771": {
         "Name": "Pyukumuku",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -9691,7 +9691,7 @@
         "Shiny": false,
         "3Star": true,
         "XXS": false,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -10141,24 +10141,24 @@
     },
     "846": {
         "Name": "Arrokuda",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
     },
     "847": {
         "Name": "Barraskewda",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -10170,7 +10170,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -10182,7 +10182,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -10255,7 +10255,7 @@
         "Shiny": false,
         "3Star": false,
         "XXS": true,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -10303,7 +10303,7 @@
         "Shiny": false,
         "3Star": false,
         "XXS": true,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -10315,7 +10315,7 @@
         "Shiny": false,
         "3Star": false,
         "XXS": true,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -10327,7 +10327,7 @@
         "Shiny": false,
         "3Star": false,
         "XXS": true,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -10782,7 +10782,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -10790,7 +10790,7 @@
     "900": {
         "Name": "Kleavor",
         "InGame": true,
-        "Lucky": false,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
@@ -11161,13 +11161,13 @@
     },
     "931": {
         "Name": "Squawkabilly",
-        "InGame": false,
-        "Lucky": false,
+        "InGame": true,
+        "Lucky": true,
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
         "XXS": true,
-        "XXL": false,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -11293,7 +11293,7 @@
     },
     "942": {
         "Name": "Maschiff",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -11305,7 +11305,7 @@
     },
     "943": {
         "Name": "Mabosstiff",
-        "InGame": false,
+        "InGame": true,
         "Lucky": false,
         "Hundo": false,
         "Shiny": false,
@@ -11341,7 +11341,7 @@
     },
     "946": {
         "Name": "Bramblin",
-        "InGame": false,
+        "InGame": true,
         "Lucky": true,
         "Hundo": false,
         "Shiny": false,
@@ -11353,7 +11353,7 @@
     },
     "947": {
         "Name": "Brambleghast",
-        "InGame": false,
+        "InGame": true,
         "Lucky": true,
         "Hundo": false,
         "Shiny": false,
@@ -11370,7 +11370,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -11382,7 +11382,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -11646,7 +11646,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": true,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -11658,7 +11658,7 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
+        "XXS": true,
         "XXL": false,
         "Shadow": false,
         "Purified": false
@@ -11670,8 +11670,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
@@ -11790,8 +11790,8 @@
         "Hundo": false,
         "Shiny": false,
         "3Star": false,
-        "XXS": false,
-        "XXL": false,
+        "XXS": true,
+        "XXL": true,
         "Shadow": false,
         "Purified": false
     },
